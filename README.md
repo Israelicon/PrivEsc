@@ -1,4 +1,9 @@
-## PrivEsc
+██████╗░██████╗░██╗██╗░░░██╗███████╗░██████╗░█████╗░
+██╔══██╗██╔══██╗██║██║░░░██║██╔════╝██╔════╝██╔══██╗
+██████╔╝██████╔╝██║╚██╗░██╔╝█████╗░░╚█████╗░██║░░╚═╝
+██╔═══╝░██╔══██╗██║░╚████╔╝░██╔══╝░░░╚═══██╗██║░░██╗
+██║░░░░░██║░░██║██║░░╚██╔╝░░███████╗██████╔╝╚█████╔╝
+
 PrivEsc é uma ferramenta de enumeração de informações sobre o sistema, desenvolvida para facilitar a análise de vulnerabilidades e identificar possíveis vetores de Escalação de Privilégios (Privilege Escalation). O script foi projetado para ambientes Linux, realizando a coleta de dados críticos sobre o sistema, rede, permissões de arquivos e processos.
 
 - Funcionalidades
